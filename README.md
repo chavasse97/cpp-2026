@@ -1,10 +1,13 @@
 # cpp-2026
-lab works written on C++
+Работы C++ нечетный вариант
+
+### Имена программ состоят из номера задания и задачи(номера задачи в лабораторной) (12.cpp это 1 задание 2 задача)
+
 # Рогозин Егор ЛА-3 Лабораторная №1
 
 # Задание 1
 
-## Задача 1
+## Задача 1 (11.cpp)
 
 ### Текст задачи
 
@@ -26,7 +29,7 @@ x=5,25
 <img width="389" height="104" alt="image" src="https://github.com/user-attachments/assets/2d87cec5-446b-4009-822c-1ff6957962d6" />
 <img width="357" height="99" alt="image" src="https://github.com/user-attachments/assets/23586281-77f1-4516-a1a5-6efacdb91d57" />
 
-## Задача 2
+## Задача 2 (13.cpp)
 
 ### Текст задачи
 
@@ -49,7 +52,7 @@ x=’3’
 <img width="273" height="63" alt="image" src="https://github.com/user-attachments/assets/c3945b55-17a5-4e7d-a348-da3d3362bcb2" />
 <img width="459" height="67" alt="image" src="https://github.com/user-attachments/assets/c7bdc10f-866a-4c91-b126-e77295291c4c" />
 
-## Задача 3
+## Задача 3 (15.cpp)
 
 ### Текст задачи
 
@@ -74,7 +77,7 @@ x=516
 <img width="222" height="82" alt="image" src="https://github.com/user-attachments/assets/cfa59d4f-1440-441c-9d23-2fbba13a3175" />
 
 
-## Задача 4
+## Задача 4 (17.cpp)
 
 ### Текст задачи
 
@@ -102,7 +105,7 @@ a=2 b=15 num=33
 <img width="181" height="78" alt="image" src="https://github.com/user-attachments/assets/3ddb0e59-5206-4462-8ff6-c3b25cfb18bd" />
 
 
-## Задача 5
+## Задача 5 (19.cpp)
 
 ### Текст задачи
 
